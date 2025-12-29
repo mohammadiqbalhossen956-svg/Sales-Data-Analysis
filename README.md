@@ -10,7 +10,8 @@ Sales Trend Analysis & Data Imputation
 ​Analysis: Programmatically identified the peak sales period and calculated product performance metrics.
 
 ​Visualization: Developed a responsive bar chart using Matplotlib with customized styling (teal color scheme and grid lines) for better readability.
-​Key Performance Indicators (KPIs)
+
+​Key Performance Indicators (KPIs):
 
 ​Peak Revenue: December showed the highest sales performance.
 
