@@ -1,6 +1,7 @@
 Sales Trend Analysis & Data Imputation
 
-​Project Overview
+​Project Overview:
+
 ​This project performs an end-to-end analysis of a synthetic sales dataset. It focuses on handling missing data points (imputation) and identifying growth trends through monthly performance visualization.
 ​Technical Implementation
 
